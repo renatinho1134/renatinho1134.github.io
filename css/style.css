@@ -224,8 +224,7 @@
         text-align: left;
     }
 
-    #skills-box i{
+    .skills-box i{
         font-size: 60px;
-        flex-direction: flex;
     }
 }
