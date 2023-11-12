@@ -217,7 +217,7 @@
     #btn-projects{
         margin: 20px auto;
     }
-    #skills-box{
+    .skills-box{
         flex: 1 1 100%;
         max-width: 100;
         margin-bottom: 40px;
